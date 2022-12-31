@@ -1,0 +1,14 @@
+
+
+Code Coverage Report:   
+  2022-12-30 21:32:56   
+                        
+ Summary:               
+  Classes: 50.00% (1/2) 
+  Methods: 75.00% (3/4) 
+  Lines:   90.00% (9/10)
+
+Roger\DigitalCep\Search
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  5/  5)
+SearchTest
+  Methods:  50.00% ( 1/ 2)   Lines:  80.00% (  4/  5)
