@@ -5,7 +5,7 @@
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '99cbb9da5554852720d527d9cad3cb30012aaeff',
+        'reference' => 'e4da3af782bac2f9a3de3ef6d202ab43da3f0f3b',
         'name' => 'roger/digital-cep',
         'dev' => true,
     ),
@@ -151,7 +151,7 @@
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '99cbb9da5554852720d527d9cad3cb30012aaeff',
+            'reference' => 'e4da3af782bac2f9a3de3ef6d202ab43da3f0f3b',
             'dev_requirement' => false,
         ),
         'sebastian/code-unit-reverse-lookup' => array(
@@ -260,6 +260,15 @@
             'install_path' => __DIR__ . '/../sebastian/version',
             'aliases' => array(),
             'reference' => 'c6c1022351a901512170118436c764e473f6de8c',
+            'dev_requirement' => true,
+        ),
+        'squizlabs/php_codesniffer' => array(
+            'pretty_version' => '3.7.1',
+            'version' => '3.7.1.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../squizlabs/php_codesniffer',
+            'aliases' => array(),
+            'reference' => '1359e176e9307e906dc3d890bcc9603ff6d90619',
             'dev_requirement' => true,
         ),
         'theseer/tokenizer' => array(

@@ -3,7 +3,6 @@
 use PHPUnit\Framework\TestCase;
 use Roger\DigitalCep\Search;
 
-
 class SearchTest extends TestCase
 {
     /**
